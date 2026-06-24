@@ -28,10 +28,7 @@ jobs:
       - name: Promote generated feed files
         run: |
           set -euo pipefail
-          cp generated/index.json stable/index.json
-          rm -rf stable/episodes
-          mkdir -p stable/episodes
-          cp -R generated/episodes/. stable/episodes/
+          node stable/scripts/promote-claude-feed.mjs generated stable
 
       - name: Commit promoted feed
         working-directory: stable
@@ -46,3 +43,9 @@ jobs:
           fi
           git commit -m "chore(feed): Claude 피드 승격"
           git push origin HEAD:main
+
+      - name: Delete promoted Claude branch
+        if: success()
+        run: |
+          set -euo pipefail
+          git push origin --delete "${GITHUB_REF_NAME}"
