@@ -10,7 +10,6 @@ permissions:
 
 jobs:
   promote:
-    if: github.ref != 'refs/heads/claude/randomcast-feed'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout generated feed
@@ -19,10 +18,10 @@ jobs:
           ref: ${{ github.ref_name }}
           path: generated
 
-      - name: Checkout app feed branch
+      - name: Checkout main feed
         uses: actions/checkout@v4
         with:
-          ref: claude/randomcast-feed
+          ref: main
           path: stable
 
       - name: Promote generated feed files
@@ -44,5 +43,5 @@ jobs:
             echo "No feed changes to promote."
             exit 0
           fi
-          git commit -m "chore(feed): Claude feed promotion"
-          git push origin HEAD:claude/randomcast-feed
+          git commit -m "chore(feed): Claude 피드 승격"
+          git push origin HEAD:main
