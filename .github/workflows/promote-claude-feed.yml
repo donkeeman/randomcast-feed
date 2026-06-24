@@ -1,0 +1,48 @@
+name: Promote Claude feed
+
+on:
+  push:
+    branches:
+      - "claude/**"
+
+permissions:
+  contents: write
+
+jobs:
+  promote:
+    if: github.ref != 'refs/heads/claude/randomcast-feed'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout generated feed
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+          path: generated
+
+      - name: Checkout app feed branch
+        uses: actions/checkout@v4
+        with:
+          ref: claude/randomcast-feed
+          path: stable
+
+      - name: Promote generated feed files
+        run: |
+          set -euo pipefail
+          cp generated/index.json stable/index.json
+          rm -rf stable/episodes
+          mkdir -p stable/episodes
+          cp -R generated/episodes/. stable/episodes/
+
+      - name: Commit promoted feed
+        working-directory: stable
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.json episodes
+          if git diff --cached --quiet; then
+            echo "No feed changes to promote."
+            exit 0
+          fi
+          git commit -m "chore(feed): Claude feed promotion"
+          git push origin HEAD:claude/randomcast-feed
