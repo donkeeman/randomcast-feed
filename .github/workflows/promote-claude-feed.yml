@@ -10,6 +10,7 @@ permissions:
 
 jobs:
   promote:
+    if: github.event.deleted == false
     runs-on: ubuntu-latest
     steps:
       - name: Checkout generated feed
