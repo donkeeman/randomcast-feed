@@ -1,7 +1,18 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-25T03:29:30.242Z",
+  "updatedAt": "2026-06-25T13:50:16.437Z",
   "episodes": [
+    {
+      "id": "2026-06-26-morning",
+      "date": "2026-06-26",
+      "slot": "morning",
+      "title": "레몬 시장: 정보 비대칭이 어떻게 멀쩡한 시장을 박살내는가",
+      "topic": "역선택과 레몬 시장 (Adverse Selection & Market for Lemons)",
+      "category": "경제",
+      "summary": "중고차 시장은 왜 구조적으로 망가지는가. 정보 비대칭과 역선택이 보험·신용·노동 시장까지 어떻게 파괴하는지 애컬로프 이론으로 파헤친다.",
+      "estimatedSeconds": 2473,
+      "url": "episodes/2026-06-26-morning.json"
+    },
     {
       "id": "2026-06-25-evening",
       "date": "2026-06-25",
