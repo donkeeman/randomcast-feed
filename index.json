@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-25T03:29:30.242Z",
+  "updatedAt": "2026-06-25T13:49:55.329Z",
   "episodes": [
     {
       "id": "2026-06-25-evening",
@@ -12,6 +12,17 @@
       "summary": "측정하면 달라진다. 지표가 목표가 되면 의미를 잃는다는 굿하트의 법칙을 코브라 효과, 소련 공장, AI 보상 해킹까지 파헤친다.",
       "estimatedSeconds": 2409,
       "url": "episodes/2026-06-25-evening.json"
+    },
+    {
+      "id": "2026-06-26-morning",
+      "date": "2026-06-26",
+      "slot": "morning",
+      "title": "레몬 시장: 정보 비대칭이 어떻게 멀쩡한 시장을 박살내는가",
+      "topic": "역선택과 레몬 시장 (Adverse Selection & Market for Lemons)",
+      "category": "경제",
+      "summary": "중고차 시장은 왜 구조적으로 망가지는가. 정보 비대칭과 역선택이 보험·신용·노동 시장까지 어떻게 파괴하는지 애컬로프 이론으로 파헤친다.",
+      "estimatedSeconds": 2473,
+      "url": "episodes/2026-06-26-morning.json"
     }
   ]
 }
