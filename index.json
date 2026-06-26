@@ -1,7 +1,18 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-25T13:50:16.437Z",
+  "updatedAt": "2026-06-26T13:05:14.456Z",
   "episodes": [
+    {
+      "id": "2026-06-25-evening",
+      "date": "2026-06-25",
+      "slot": "evening",
+      "title": "굿하트의 법칙: 지표가 목표가 되는 순간 지표는 죽는다",
+      "topic": "굿하트의 법칙 (Goodhart's Law)",
+      "category": "경제",
+      "summary": "측정하면 달라진다. 지표가 목표가 되면 의미를 잃는다는 굿하트의 법칙을 코브라 효과, 소련 공장, AI 보상 해킹까지 파헤친다.",
+      "estimatedSeconds": 2409,
+      "url": "episodes/2026-06-25-evening.json"
+    },
     {
       "id": "2026-06-26-morning",
       "date": "2026-06-26",
@@ -14,15 +25,15 @@
       "url": "episodes/2026-06-26-morning.json"
     },
     {
-      "id": "2026-06-25-evening",
-      "date": "2026-06-25",
-      "slot": "evening",
-      "title": "굿하트의 법칙: 지표가 목표가 되는 순간 지표는 죽는다",
-      "topic": "굿하트의 법칙 (Goodhart's Law)",
-      "category": "경제",
-      "summary": "측정하면 달라진다. 지표가 목표가 되면 의미를 잃는다는 굿하트의 법칙을 코브라 효과, 소련 공장, AI 보상 해킹까지 파헤친다.",
-      "estimatedSeconds": 2409,
-      "url": "episodes/2026-06-25-evening.json"
+      "id": "2026-06-27-morning",
+      "date": "2026-06-27",
+      "slot": "morning",
+      "title": "평균 회귀: 기적의 약도, 명코치도, 성공한 CEO도 결국 왜 평범해지는가",
+      "topic": "평균 회귀 (Regression to the Mean)",
+      "category": "심리학",
+      "summary": "극단적 결과엔 항상 운이 껴 있어서 다음엔 평범해진다. 이 법칙이 의학·스포츠·투자를 어떻게 왜곡하는지 파헤친다.",
+      "estimatedSeconds": 2407,
+      "url": "episodes/2026-06-27-morning.json"
     }
   ]
 }
