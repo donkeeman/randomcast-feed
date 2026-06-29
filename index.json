@@ -1,7 +1,18 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-26T13:05:38.964Z",
+  "updatedAt": "2026-06-29T12:47:47.759Z",
   "episodes": [
+    {
+      "id": "2026-06-30-morning",
+      "date": "2026-06-30",
+      "slot": "morning",
+      "title": "경로 의존성: 역사가 표준을 어떻게 감옥으로 만드는가",
+      "topic": "경로 의존성 (Path Dependence)",
+      "category": "경제",
+      "summary": "QWERTY, VHS, COBOL. 더 좋은 대안이 있어도 왜 못 바꾸는가. 역사가 표준을 잠그는 경로 의존성의 메커니즘과 시장 효율성 신화를 파헤친다.",
+      "estimatedSeconds": 2636,
+      "url": "episodes/2026-06-30-morning.json"
+    },
     {
       "id": "2026-06-27-morning",
       "date": "2026-06-27",
