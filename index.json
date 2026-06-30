@@ -1,7 +1,18 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-29T12:47:47.759Z",
+  "updatedAt": "2026-06-30T03:43:33.851Z",
   "episodes": [
+    {
+      "id": "2026-06-30-evening",
+      "date": "2026-06-30",
+      "slot": "evening",
+      "title": "프리온: DNA 없이 복제하는 단백질과 영국 정부가 숨긴 광우병의 진실",
+      "topic": "프리온 (Prion) — 단백질 감염 인자",
+      "category": "과학",
+      "summary": "DNA도 RNA도 없이 단백질이 단백질을 복제한다. 생물학 교과서를 뒤집은 프리온 메커니즘과 영국 정부가 숨긴 광우병 진실을 파헤친다.",
+      "estimatedSeconds": 2402,
+      "url": "episodes/2026-06-30-evening.json"
+    },
     {
       "id": "2026-06-30-morning",
       "date": "2026-06-30",
