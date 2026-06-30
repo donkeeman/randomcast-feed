@@ -1,28 +1,17 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-29T12:47:47.759Z",
+  "updatedAt": "2026-06-30T03:43:07.250Z",
   "episodes": [
     {
-      "id": "2026-06-30-morning",
-      "date": "2026-06-30",
-      "slot": "morning",
-      "title": "경로 의존성: 역사가 표준을 어떻게 감옥으로 만드는가",
-      "topic": "경로 의존성 (Path Dependence)",
+      "id": "2026-06-25-evening",
+      "date": "2026-06-25",
+      "slot": "evening",
+      "title": "굿하트의 법칙: 지표가 목표가 되는 순간 지표는 죽는다",
+      "topic": "굿하트의 법칙 (Goodhart's Law)",
       "category": "경제",
-      "summary": "QWERTY, VHS, COBOL. 더 좋은 대안이 있어도 왜 못 바꾸는가. 역사가 표준을 잠그는 경로 의존성의 메커니즘과 시장 효율성 신화를 파헤친다.",
-      "estimatedSeconds": 2636,
-      "url": "episodes/2026-06-30-morning.json"
-    },
-    {
-      "id": "2026-06-27-morning",
-      "date": "2026-06-27",
-      "slot": "morning",
-      "title": "평균 회귀: 기적의 약도, 명코치도, 성공한 CEO도 결국 왜 평범해지는가",
-      "topic": "평균 회귀 (Regression to the Mean)",
-      "category": "심리학",
-      "summary": "극단적 결과엔 항상 운이 껴 있어서 다음엔 평범해진다. 이 법칙이 의학·스포츠·투자를 어떻게 왜곡하는지 파헤친다.",
-      "estimatedSeconds": 2407,
-      "url": "episodes/2026-06-27-morning.json"
+      "summary": "측정하면 달라진다. 지표가 목표가 되면 의미를 잃는다는 굿하트의 법칙을 코브라 효과, 소련 공장, AI 보상 해킹까지 파헤친다.",
+      "estimatedSeconds": 2409,
+      "url": "episodes/2026-06-25-evening.json"
     },
     {
       "id": "2026-06-26-morning",
@@ -36,15 +25,37 @@
       "url": "episodes/2026-06-26-morning.json"
     },
     {
-      "id": "2026-06-25-evening",
-      "date": "2026-06-25",
-      "slot": "evening",
-      "title": "굿하트의 법칙: 지표가 목표가 되는 순간 지표는 죽는다",
-      "topic": "굿하트의 법칙 (Goodhart's Law)",
+      "id": "2026-06-27-morning",
+      "date": "2026-06-27",
+      "slot": "morning",
+      "title": "평균 회귀: 기적의 약도, 명코치도, 성공한 CEO도 결국 왜 평범해지는가",
+      "topic": "평균 회귀 (Regression to the Mean)",
+      "category": "심리학",
+      "summary": "극단적 결과엔 항상 운이 껴 있어서 다음엔 평범해진다. 이 법칙이 의학·스포츠·투자를 어떻게 왜곡하는지 파헤친다.",
+      "estimatedSeconds": 2407,
+      "url": "episodes/2026-06-27-morning.json"
+    },
+    {
+      "id": "2026-06-30-morning",
+      "date": "2026-06-30",
+      "slot": "morning",
+      "title": "경로 의존성: 역사가 표준을 어떻게 감옥으로 만드는가",
+      "topic": "경로 의존성 (Path Dependence)",
       "category": "경제",
-      "summary": "측정하면 달라진다. 지표가 목표가 되면 의미를 잃는다는 굿하트의 법칙을 코브라 효과, 소련 공장, AI 보상 해킹까지 파헤친다.",
-      "estimatedSeconds": 2409,
-      "url": "episodes/2026-06-25-evening.json"
+      "summary": "QWERTY, VHS, COBOL. 더 좋은 대안이 있어도 왜 못 바꾸는가. 역사가 표준을 잠그는 경로 의존성의 메커니즘과 시장 효율성 신화를 파헤친다.",
+      "estimatedSeconds": 2636,
+      "url": "episodes/2026-06-30-morning.json"
+    },
+    {
+      "id": "2026-06-30-evening",
+      "date": "2026-06-30",
+      "slot": "evening",
+      "title": "프리온: DNA 없이 복제하는 단백질과 영국 정부가 숨긴 광우병의 진실",
+      "topic": "프리온 (Prion) — 단백질 감염 인자",
+      "category": "과학",
+      "summary": "DNA도 RNA도 없이 단백질이 단백질을 복제한다. 생물학 교과서를 뒤집은 프리온 메커니즘과 영국 정부가 숨긴 광우병 진실을 파헤친다.",
+      "estimatedSeconds": 2402,
+      "url": "episodes/2026-06-30-evening.json"
     }
   ]
 }
