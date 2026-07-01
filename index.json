@@ -1,61 +1,17 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-01T03:28:46.514Z",
+  "updatedAt": "2026-07-01T12:24:40.270Z",
   "episodes": [
     {
-      "id": "2026-07-01-evening",
-      "date": "2026-07-01",
+      "id": "2026-06-25-evening",
+      "date": "2026-06-25",
       "slot": "evening",
-      "title": "이스터섬 자멸설의 배신: 쥐, 노예상, 그리고 조작된 붕괴 신화",
-      "topic": "라파누이(이스터섬) '생태자살(ecocide)' 신화와 실제 붕괴 원인",
-      "category": "역사",
-      "summary": "이스터섬 사람들이 나무 다 베고 자멸했다는 얘기, 사실 근거가 흔들리고 있다. 진짜 범인은 쥐와 노예상이었다는 최신 고고학·유전학 증거를 깐다.",
-      "estimatedSeconds": 2630,
-      "url": "episodes/2026-07-01-evening.json"
-    },
-    {
-      "id": "2026-07-01-morning",
-      "date": "2026-07-01",
-      "slot": "morning",
-      "title": "세락-25: 소프트웨어 버그로 사람 여섯 명을 죽인 방사선 치료기의 진짜 이야기",
-      "topic": "세락-25 (Therac-25) — 방사선 치료기 소프트웨어 사고",
-      "category": "기술",
-      "summary": "1985~87년, 캐나다산 방사선 치료기 세락-25의 소프트웨어 버그가 환자 6명에게 치사량 방사선을 쐈다. 은폐, 부정, 늑장 대응. 소프트웨어가 사람을 죽인 역사.",
-      "estimatedSeconds": 2472,
-      "url": "episodes/2026-07-01-morning.json"
-    },
-    {
-      "id": "2026-06-30-evening",
-      "date": "2026-06-30",
-      "slot": "evening",
-      "title": "프리온: DNA 없이 복제하는 단백질과 영국 정부가 숨긴 광우병의 진실",
-      "topic": "프리온 (Prion) — 단백질 감염 인자",
-      "category": "과학",
-      "summary": "DNA도 RNA도 없이 단백질이 단백질을 복제한다. 생물학 교과서를 뒤집은 프리온 메커니즘과 영국 정부가 숨긴 광우병 진실을 파헤친다.",
-      "estimatedSeconds": 2402,
-      "url": "episodes/2026-06-30-evening.json"
-    },
-    {
-      "id": "2026-06-30-morning",
-      "date": "2026-06-30",
-      "slot": "morning",
-      "title": "경로 의존성: 역사가 표준을 어떻게 감옥으로 만드는가",
-      "topic": "경로 의존성 (Path Dependence)",
+      "title": "굿하트의 법칙: 지표가 목표가 되는 순간 지표는 죽는다",
+      "topic": "굿하트의 법칙 (Goodhart's Law)",
       "category": "경제",
-      "summary": "QWERTY, VHS, COBOL. 더 좋은 대안이 있어도 왜 못 바꾸는가. 역사가 표준을 잠그는 경로 의존성의 메커니즘과 시장 효율성 신화를 파헤친다.",
-      "estimatedSeconds": 2636,
-      "url": "episodes/2026-06-30-morning.json"
-    },
-    {
-      "id": "2026-06-27-morning",
-      "date": "2026-06-27",
-      "slot": "morning",
-      "title": "평균 회귀: 기적의 약도, 명코치도, 성공한 CEO도 결국 왜 평범해지는가",
-      "topic": "평균 회귀 (Regression to the Mean)",
-      "category": "심리학",
-      "summary": "극단적 결과엔 항상 운이 껴 있어서 다음엔 평범해진다. 이 법칙이 의학·스포츠·투자를 어떻게 왜곡하는지 파헤친다.",
-      "estimatedSeconds": 2407,
-      "url": "episodes/2026-06-27-morning.json"
+      "summary": "측정하면 달라진다. 지표가 목표가 되면 의미를 잃는다는 굿하트의 법칙을 코브라 효과, 소련 공장, AI 보상 해킹까지 파헤친다.",
+      "estimatedSeconds": 2409,
+      "url": "episodes/2026-06-25-evening.json"
     },
     {
       "id": "2026-06-26-morning",
@@ -69,15 +25,70 @@
       "url": "episodes/2026-06-26-morning.json"
     },
     {
-      "id": "2026-06-25-evening",
-      "date": "2026-06-25",
-      "slot": "evening",
-      "title": "굿하트의 법칙: 지표가 목표가 되는 순간 지표는 죽는다",
-      "topic": "굿하트의 법칙 (Goodhart's Law)",
+      "id": "2026-06-27-morning",
+      "date": "2026-06-27",
+      "slot": "morning",
+      "title": "평균 회귀: 기적의 약도, 명코치도, 성공한 CEO도 결국 왜 평범해지는가",
+      "topic": "평균 회귀 (Regression to the Mean)",
+      "category": "심리학",
+      "summary": "극단적 결과엔 항상 운이 껴 있어서 다음엔 평범해진다. 이 법칙이 의학·스포츠·투자를 어떻게 왜곡하는지 파헤친다.",
+      "estimatedSeconds": 2407,
+      "url": "episodes/2026-06-27-morning.json"
+    },
+    {
+      "id": "2026-06-30-morning",
+      "date": "2026-06-30",
+      "slot": "morning",
+      "title": "경로 의존성: 역사가 표준을 어떻게 감옥으로 만드는가",
+      "topic": "경로 의존성 (Path Dependence)",
       "category": "경제",
-      "summary": "측정하면 달라진다. 지표가 목표가 되면 의미를 잃는다는 굿하트의 법칙을 코브라 효과, 소련 공장, AI 보상 해킹까지 파헤친다.",
-      "estimatedSeconds": 2409,
-      "url": "episodes/2026-06-25-evening.json"
+      "summary": "QWERTY, VHS, COBOL. 더 좋은 대안이 있어도 왜 못 바꾸는가. 역사가 표준을 잠그는 경로 의존성의 메커니즘과 시장 효율성 신화를 파헤친다.",
+      "estimatedSeconds": 2636,
+      "url": "episodes/2026-06-30-morning.json"
+    },
+    {
+      "id": "2026-06-30-evening",
+      "date": "2026-06-30",
+      "slot": "evening",
+      "title": "프리온: DNA 없이 복제하는 단백질과 영국 정부가 숨긴 광우병의 진실",
+      "topic": "프리온 (Prion) — 단백질 감염 인자",
+      "category": "과학",
+      "summary": "DNA도 RNA도 없이 단백질이 단백질을 복제한다. 생물학 교과서를 뒤집은 프리온 메커니즘과 영국 정부가 숨긴 광우병 진실을 파헤친다.",
+      "estimatedSeconds": 2402,
+      "url": "episodes/2026-06-30-evening.json"
+    },
+    {
+      "id": "2026-07-01-morning",
+      "date": "2026-07-01",
+      "slot": "morning",
+      "title": "세락-25: 소프트웨어 버그로 사람 여섯 명을 죽인 방사선 치료기의 진짜 이야기",
+      "topic": "세락-25 (Therac-25) — 방사선 치료기 소프트웨어 사고",
+      "category": "기술",
+      "summary": "1985~87년, 캐나다산 방사선 치료기 세락-25의 소프트웨어 버그가 환자 6명에게 치사량 방사선을 쐈다. 은폐, 부정, 늑장 대응. 소프트웨어가 사람을 죽인 역사.",
+      "estimatedSeconds": 2472,
+      "url": "episodes/2026-07-01-morning.json"
+    },
+    {
+      "id": "2026-07-01-evening",
+      "date": "2026-07-01",
+      "slot": "evening",
+      "title": "이스터섬 자멸설의 배신: 쥐, 노예상, 그리고 조작된 붕괴 신화",
+      "topic": "라파누이(이스터섬) '생태자살(ecocide)' 신화와 실제 붕괴 원인",
+      "category": "역사",
+      "summary": "이스터섬 사람들이 나무 다 베고 자멸했다는 얘기, 사실 근거가 흔들리고 있다. 진짜 범인은 쥐와 노예상이었다는 최신 고고학·유전학 증거를 깐다.",
+      "estimatedSeconds": 2630,
+      "url": "episodes/2026-07-01-evening.json"
+    },
+    {
+      "id": "2026-07-02-morning",
+      "date": "2026-07-02",
+      "slot": "morning",
+      "title": "그라민은행의 배신: 노벨상 탄 마이크로크레딧이 사람을 죽인 이유",
+      "topic": "마이크로크레딧(Microcredit)과 그라민은행 모델 — 신화, 상업화, 안드라프라데시 붕괴",
+      "category": "개발",
+      "summary": "노벨평화상까지 받은 마이크로크레딧, 가난을 없앤다더니 실제론 빚만 늘렸다. 그라민은행 신화, 콤파르타모스 폭리, 인도 자살 사태로 실체를 깐다.",
+      "estimatedSeconds": 2510,
+      "url": "episodes/2026-07-02-morning.json"
     }
   ]
 }
