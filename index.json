@@ -1,7 +1,18 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-01T12:25:09.245Z",
+  "updatedAt": "2026-07-02T12:32:46.618Z",
   "episodes": [
+    {
+      "id": "2026-07-03-morning",
+      "date": "2026-07-03",
+      "slot": "morning",
+      "title": "깨진 유리창 이론의 배신: 뉴욕은 정말 낙서 지워서 범죄를 잡았나",
+      "topic": "깨진 유리창 이론(Broken Windows Theory)과 1990년대 뉴욕 범죄율 폭락 신화의 실체",
+      "category": "사회",
+      "summary": "낙서 지우고 범죄 잡았다는 뉴욕 신화, 근거가 생각보다 부실하다. 원논문 저자 의도, 스탑앤프리스크 인종차별, 납-범죄 가설까지 깐다.",
+      "estimatedSeconds": 2437,
+      "url": "episodes/2026-07-03-morning.json"
+    },
     {
       "id": "2026-07-02-morning",
       "date": "2026-07-02",
