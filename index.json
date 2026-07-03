@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-03T15:29:38.637Z",
+  "updatedAt": "2026-07-03T15:30:39.347Z",
   "episodes": [
     {
       "id": "2026-07-05-morning",
@@ -12,6 +12,17 @@
       "summary": "GPS 위성 시계, 아인슈타인 계산 없으면 하루 10km씩 밀렸을 거다. 상대성이론 보정의 실체, 발사 전 엔지니어들의 도박, 그걸 부정한 사람들 얘기까지 깐다.",
       "estimatedSeconds": 2408,
       "url": "episodes/2026-07-05-morning.json"
+    },
+    {
+      "id": "2026-07-04-evening",
+      "date": "2026-07-04",
+      "slot": "evening",
+      "title": "카고 컬트: 원주민이 멍청해서 비행기를 숭배했다는 건 거짓말이다",
+      "topic": "카고 컬트 (Cargo Cult) — 바누아투 존 프럼 운동과 화물 신앙의 실제 메커니즘",
+      "category": "문화",
+      "summary": "2차대전 때 미군 물자에 놀란 원주민이 활주로를 흉내 냈다는 카고 컬트. 멍청해서가 아니라 식민 지배에 맞선 정치 운동이었고, 파인만이 이걸 과학 비유로 오용했다는 진실을 파헤친다.",
+      "estimatedSeconds": 2529,
+      "url": "episodes/2026-07-04-evening.json"
     },
     {
       "id": "2026-07-03-morning",
