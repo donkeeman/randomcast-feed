@@ -1,7 +1,18 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-06T15:29:36.632Z",
+  "updatedAt": "2026-07-07T15:28:09.868Z",
   "episodes": [
+    {
+      "id": "2026-07-09-morning",
+      "date": "2026-07-09",
+      "slot": "morning",
+      "title": "자원의 저주: 기름 콸콸 나오는 나라가 왜 더 좆같이 망하는지",
+      "topic": "자원의 저주(Resource Curse)와 네덜란드병(Dutch Disease) — 오일머니가 경제를 어떻게 망가뜨리고, 노르웨이·보츠와나는 어떻게 그걸 피했는가",
+      "category": "개발",
+      "summary": "기름 많은 나라가 왜 더 가난해지는지 네덜란드병 메커니즘부터 나이지리아·베네수엘라의 몰락, 노르웨이·보츠와나의 예외, 콩고 코발트까지 파헤친다.",
+      "estimatedSeconds": 2709,
+      "url": "episodes/2026-07-09-morning.json"
+    },
     {
       "id": "2026-07-08-morning",
       "date": "2026-07-08",
