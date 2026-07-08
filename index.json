@@ -1,138 +1,17 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-07T15:36:41.247Z",
+  "updatedAt": "2026-07-08T15:39:30.494Z",
   "episodes": [
     {
-      "id": "2026-07-09-morning",
-      "date": "2026-07-09",
-      "slot": "morning",
-      "title": "자원의 저주: 기름 콸콸 나오는 나라가 왜 더 좆같이 망하는지",
-      "topic": "자원의 저주(Resource Curse)와 네덜란드병(Dutch Disease) — 오일머니가 경제를 어떻게 망가뜨리고, 노르웨이·보츠와나는 어떻게 그걸 피했는가",
-      "category": "개발",
-      "summary": "기름 많은 나라가 왜 더 가난해지는지 네덜란드병 메커니즘부터 나이지리아·베네수엘라의 몰락, 노르웨이·보츠와나의 예외, 콩고 코발트까지 파헤친다.",
-      "estimatedSeconds": 2709,
-      "url": "episodes/2026-07-09-morning.json"
-    },
-    {
-      "id": "2026-07-08-evening",
-      "date": "2026-07-08",
+      "id": "2026-06-25-evening",
+      "date": "2026-06-25",
       "slot": "evening",
-      "title": "스탠퍼드 감옥 실험 조작극: 세계를 50년 속인 가짜 심리학",
-      "topic": "스탠퍼드 감옥 실험(Stanford Prison Experiment)의 실체 — 해군연구청 자금, 감독의 사전 코칭, 죄수 8612번의 연기 자백, 크리스티나 매슬락의 개입, BBC 재현 실험의 정반대 결과, 아부그라이브 법정 증언, 짐바르도 사후 재평가까지 이어진 신화의 붕괴",
-      "category": "심리학",
-      "summary": "50년간 교과서에 실린 스탠퍼드 감옥 실험이 사실은 감독의 코칭과 참가자 연기, 군 자금으로 만들어진 조작극이었다는 걸 원본 테이프와 재현 실험으로 까발린다.",
-      "estimatedSeconds": 2501,
-      "url": "episodes/2026-07-08-evening.json"
-    },
-    {
-      "id": "2026-07-08-morning",
-      "date": "2026-07-08",
-      "slot": "morning",
-      "title": "허젠쿠이 크리스퍼 아기 사건: 세계 최초 유전자편집 아기가 사실은 실험 쥐였다는 얘기",
-      "topic": "크리스퍼-Cas9 유전자가위의 실제 작동 원리와 허젠쿠이 유전자편집 아기(루루·나나) 사건 — 오프타겟 효과, 모자이시즘, CCR5 유전자 조작의 진짜 리스크와 그 이후",
-      "category": "과학",
-      "summary": "2018년 세계를 뒤집은 크리스퍼 아기 사건. 유전자가위가 정말 정밀했는지, 그 애들한테 실제로 무슨 일이 있었는지, 그리고 지금은 어떻게 됐는지 파헤친다.",
-      "estimatedSeconds": 2512,
-      "url": "episodes/2026-07-08-morning.json"
-    },
-    {
-      "id": "2026-07-05-morning",
-      "date": "2026-07-05",
-      "slot": "morning",
-      "title": "GPS의 배신: 아인슈타인 없었으면 하루 10km씩 밀렸을 거라는 얘기",
-      "topic": "GPS 위성의 상대성이론 시간보정 — 특수상대성이론과 일반상대성이론이 만드는 위성시계 오차, 발사 전 엔지니어들의 도박, 그리고 이를 둘러싼 논쟁",
-      "category": "과학",
-      "summary": "GPS 위성 시계, 아인슈타인 계산 없으면 하루 10km씩 밀렸을 거다. 상대성이론 보정의 실체, 발사 전 엔지니어들의 도박, 그걸 부정한 사람들 얘기까지 깐다.",
-      "estimatedSeconds": 2408,
-      "url": "episodes/2026-07-05-morning.json"
-    },
-    {
-      "id": "2026-07-04-evening",
-      "date": "2026-07-04",
-      "slot": "evening",
-      "title": "카고 컬트: 원주민이 멍청해서 비행기를 숭배했다는 건 거짓말이다",
-      "topic": "카고 컬트 (Cargo Cult) — 바누아투 존 프럼 운동과 화물 신앙의 실제 메커니즘",
-      "category": "문화",
-      "summary": "2차대전 때 미군 물자에 놀란 원주민이 활주로를 흉내 냈다는 카고 컬트. 멍청해서가 아니라 식민 지배에 맞선 정치 운동이었고, 파인만이 이걸 과학 비유로 오용했다는 진실을 파헤친다.",
-      "estimatedSeconds": 2529,
-      "url": "episodes/2026-07-04-evening.json"
-    },
-    {
-      "id": "2026-07-03-morning",
-      "date": "2026-07-03",
-      "slot": "morning",
-      "title": "깨진 유리창 이론의 배신: 뉴욕은 정말 낙서 지워서 범죄를 잡았나",
-      "topic": "깨진 유리창 이론(Broken Windows Theory)과 1990년대 뉴욕 범죄율 폭락 신화의 실체",
-      "category": "사회",
-      "summary": "낙서 지우고 범죄 잡았다는 뉴욕 신화, 근거가 생각보다 부실하다. 원논문 저자 의도, 스탑앤프리스크 인종차별, 납-범죄 가설까지 깐다.",
-      "estimatedSeconds": 2437,
-      "url": "episodes/2026-07-03-morning.json"
-    },
-    {
-      "id": "2026-07-02-morning",
-      "date": "2026-07-02",
-      "slot": "morning",
-      "title": "그라민은행의 배신: 노벨상 탄 마이크로크레딧이 사람을 죽인 이유",
-      "topic": "마이크로크레딧(Microcredit)과 그라민은행 모델 — 신화, 상업화, 안드라프라데시 붕괴",
-      "category": "개발",
-      "summary": "노벨평화상까지 받은 마이크로크레딧, 가난을 없앤다더니 실제론 빚만 늘렸다. 그라민은행 신화, 콤파르타모스 폭리, 인도 자살 사태로 실체를 깐다.",
-      "estimatedSeconds": 2510,
-      "url": "episodes/2026-07-02-morning.json"
-    },
-    {
-      "id": "2026-07-01-evening",
-      "date": "2026-07-01",
-      "slot": "evening",
-      "title": "이스터섬 자멸설의 배신: 쥐, 노예상, 그리고 조작된 붕괴 신화",
-      "topic": "라파누이(이스터섬) '생태자살(ecocide)' 신화와 실제 붕괴 원인",
-      "category": "역사",
-      "summary": "이스터섬 사람들이 나무 다 베고 자멸했다는 얘기, 사실 근거가 흔들리고 있다. 진짜 범인은 쥐와 노예상이었다는 최신 고고학·유전학 증거를 깐다.",
-      "estimatedSeconds": 2630,
-      "url": "episodes/2026-07-01-evening.json"
-    },
-    {
-      "id": "2026-07-01-morning",
-      "date": "2026-07-01",
-      "slot": "morning",
-      "title": "세락-25: 소프트웨어 버그로 사람 여섯 명을 죽인 방사선 치료기의 진짜 이야기",
-      "topic": "세락-25 (Therac-25) — 방사선 치료기 소프트웨어 사고",
-      "category": "기술",
-      "summary": "1985~87년, 캐나다산 방사선 치료기 세락-25의 소프트웨어 버그가 환자 6명에게 치사량 방사선을 쐈다. 은폐, 부정, 늑장 대응. 소프트웨어가 사람을 죽인 역사.",
-      "estimatedSeconds": 2472,
-      "url": "episodes/2026-07-01-morning.json"
-    },
-    {
-      "id": "2026-06-30-evening",
-      "date": "2026-06-30",
-      "slot": "evening",
-      "title": "프리온: DNA 없이 복제하는 단백질과 영국 정부가 숨긴 광우병의 진실",
-      "topic": "프리온 (Prion) — 단백질 감염 인자",
-      "category": "과학",
-      "summary": "DNA도 RNA도 없이 단백질이 단백질을 복제한다. 생물학 교과서를 뒤집은 프리온 메커니즘과 영국 정부가 숨긴 광우병 진실을 파헤친다.",
-      "estimatedSeconds": 2402,
-      "url": "episodes/2026-06-30-evening.json"
-    },
-    {
-      "id": "2026-06-30-morning",
-      "date": "2026-06-30",
-      "slot": "morning",
-      "title": "경로 의존성: 역사가 표준을 어떻게 감옥으로 만드는가",
-      "topic": "경로 의존성 (Path Dependence)",
+      "title": "굿하트의 법칙: 지표가 목표가 되는 순간 지표는 죽는다",
+      "topic": "굿하트의 법칙 (Goodhart's Law)",
       "category": "경제",
-      "summary": "QWERTY, VHS, COBOL. 더 좋은 대안이 있어도 왜 못 바꾸는가. 역사가 표준을 잠그는 경로 의존성의 메커니즘과 시장 효율성 신화를 파헤친다.",
-      "estimatedSeconds": 2636,
-      "url": "episodes/2026-06-30-morning.json"
-    },
-    {
-      "id": "2026-06-27-morning",
-      "date": "2026-06-27",
-      "slot": "morning",
-      "title": "평균 회귀: 기적의 약도, 명코치도, 성공한 CEO도 결국 왜 평범해지는가",
-      "topic": "평균 회귀 (Regression to the Mean)",
-      "category": "심리학",
-      "summary": "극단적 결과엔 항상 운이 껴 있어서 다음엔 평범해진다. 이 법칙이 의학·스포츠·투자를 어떻게 왜곡하는지 파헤친다.",
-      "estimatedSeconds": 2407,
-      "url": "episodes/2026-06-27-morning.json"
+      "summary": "측정하면 달라진다. 지표가 목표가 되면 의미를 잃는다는 굿하트의 법칙을 코브라 효과, 소련 공장, AI 보상 해킹까지 파헤친다.",
+      "estimatedSeconds": 2409,
+      "url": "episodes/2026-06-25-evening.json"
     },
     {
       "id": "2026-06-26-morning",
@@ -146,15 +25,147 @@
       "url": "episodes/2026-06-26-morning.json"
     },
     {
-      "id": "2026-06-25-evening",
-      "date": "2026-06-25",
-      "slot": "evening",
-      "title": "굿하트의 법칙: 지표가 목표가 되는 순간 지표는 죽는다",
-      "topic": "굿하트의 법칙 (Goodhart's Law)",
+      "id": "2026-06-27-morning",
+      "date": "2026-06-27",
+      "slot": "morning",
+      "title": "평균 회귀: 기적의 약도, 명코치도, 성공한 CEO도 결국 왜 평범해지는가",
+      "topic": "평균 회귀 (Regression to the Mean)",
+      "category": "심리학",
+      "summary": "극단적 결과엔 항상 운이 껴 있어서 다음엔 평범해진다. 이 법칙이 의학·스포츠·투자를 어떻게 왜곡하는지 파헤친다.",
+      "estimatedSeconds": 2407,
+      "url": "episodes/2026-06-27-morning.json"
+    },
+    {
+      "id": "2026-06-30-morning",
+      "date": "2026-06-30",
+      "slot": "morning",
+      "title": "경로 의존성: 역사가 표준을 어떻게 감옥으로 만드는가",
+      "topic": "경로 의존성 (Path Dependence)",
       "category": "경제",
-      "summary": "측정하면 달라진다. 지표가 목표가 되면 의미를 잃는다는 굿하트의 법칙을 코브라 효과, 소련 공장, AI 보상 해킹까지 파헤친다.",
-      "estimatedSeconds": 2409,
-      "url": "episodes/2026-06-25-evening.json"
+      "summary": "QWERTY, VHS, COBOL. 더 좋은 대안이 있어도 왜 못 바꾸는가. 역사가 표준을 잠그는 경로 의존성의 메커니즘과 시장 효율성 신화를 파헤친다.",
+      "estimatedSeconds": 2636,
+      "url": "episodes/2026-06-30-morning.json"
+    },
+    {
+      "id": "2026-06-30-evening",
+      "date": "2026-06-30",
+      "slot": "evening",
+      "title": "프리온: DNA 없이 복제하는 단백질과 영국 정부가 숨긴 광우병의 진실",
+      "topic": "프리온 (Prion) — 단백질 감염 인자",
+      "category": "과학",
+      "summary": "DNA도 RNA도 없이 단백질이 단백질을 복제한다. 생물학 교과서를 뒤집은 프리온 메커니즘과 영국 정부가 숨긴 광우병 진실을 파헤친다.",
+      "estimatedSeconds": 2402,
+      "url": "episodes/2026-06-30-evening.json"
+    },
+    {
+      "id": "2026-07-01-morning",
+      "date": "2026-07-01",
+      "slot": "morning",
+      "title": "세락-25: 소프트웨어 버그로 사람 여섯 명을 죽인 방사선 치료기의 진짜 이야기",
+      "topic": "세락-25 (Therac-25) — 방사선 치료기 소프트웨어 사고",
+      "category": "기술",
+      "summary": "1985~87년, 캐나다산 방사선 치료기 세락-25의 소프트웨어 버그가 환자 6명에게 치사량 방사선을 쐈다. 은폐, 부정, 늑장 대응. 소프트웨어가 사람을 죽인 역사.",
+      "estimatedSeconds": 2472,
+      "url": "episodes/2026-07-01-morning.json"
+    },
+    {
+      "id": "2026-07-01-evening",
+      "date": "2026-07-01",
+      "slot": "evening",
+      "title": "이스터섬 자멸설의 배신: 쥐, 노예상, 그리고 조작된 붕괴 신화",
+      "topic": "라파누이(이스터섬) '생태자살(ecocide)' 신화와 실제 붕괴 원인",
+      "category": "역사",
+      "summary": "이스터섬 사람들이 나무 다 베고 자멸했다는 얘기, 사실 근거가 흔들리고 있다. 진짜 범인은 쥐와 노예상이었다는 최신 고고학·유전학 증거를 깐다.",
+      "estimatedSeconds": 2630,
+      "url": "episodes/2026-07-01-evening.json"
+    },
+    {
+      "id": "2026-07-02-morning",
+      "date": "2026-07-02",
+      "slot": "morning",
+      "title": "그라민은행의 배신: 노벨상 탄 마이크로크레딧이 사람을 죽인 이유",
+      "topic": "마이크로크레딧(Microcredit)과 그라민은행 모델 — 신화, 상업화, 안드라프라데시 붕괴",
+      "category": "개발",
+      "summary": "노벨평화상까지 받은 마이크로크레딧, 가난을 없앤다더니 실제론 빚만 늘렸다. 그라민은행 신화, 콤파르타모스 폭리, 인도 자살 사태로 실체를 깐다.",
+      "estimatedSeconds": 2510,
+      "url": "episodes/2026-07-02-morning.json"
+    },
+    {
+      "id": "2026-07-03-morning",
+      "date": "2026-07-03",
+      "slot": "morning",
+      "title": "깨진 유리창 이론의 배신: 뉴욕은 정말 낙서 지워서 범죄를 잡았나",
+      "topic": "깨진 유리창 이론(Broken Windows Theory)과 1990년대 뉴욕 범죄율 폭락 신화의 실체",
+      "category": "사회",
+      "summary": "낙서 지우고 범죄 잡았다는 뉴욕 신화, 근거가 생각보다 부실하다. 원논문 저자 의도, 스탑앤프리스크 인종차별, 납-범죄 가설까지 깐다.",
+      "estimatedSeconds": 2437,
+      "url": "episodes/2026-07-03-morning.json"
+    },
+    {
+      "id": "2026-07-04-evening",
+      "date": "2026-07-04",
+      "slot": "evening",
+      "title": "카고 컬트: 원주민이 멍청해서 비행기를 숭배했다는 건 거짓말이다",
+      "topic": "카고 컬트 (Cargo Cult) — 바누아투 존 프럼 운동과 화물 신앙의 실제 메커니즘",
+      "category": "문화",
+      "summary": "2차대전 때 미군 물자에 놀란 원주민이 활주로를 흉내 냈다는 카고 컬트. 멍청해서가 아니라 식민 지배에 맞선 정치 운동이었고, 파인만이 이걸 과학 비유로 오용했다는 진실을 파헤친다.",
+      "estimatedSeconds": 2529,
+      "url": "episodes/2026-07-04-evening.json"
+    },
+    {
+      "id": "2026-07-05-morning",
+      "date": "2026-07-05",
+      "slot": "morning",
+      "title": "GPS의 배신: 아인슈타인 없었으면 하루 10km씩 밀렸을 거라는 얘기",
+      "topic": "GPS 위성의 상대성이론 시간보정 — 특수상대성이론과 일반상대성이론이 만드는 위성시계 오차, 발사 전 엔지니어들의 도박, 그리고 이를 둘러싼 논쟁",
+      "category": "과학",
+      "summary": "GPS 위성 시계, 아인슈타인 계산 없으면 하루 10km씩 밀렸을 거다. 상대성이론 보정의 실체, 발사 전 엔지니어들의 도박, 그걸 부정한 사람들 얘기까지 깐다.",
+      "estimatedSeconds": 2408,
+      "url": "episodes/2026-07-05-morning.json"
+    },
+    {
+      "id": "2026-07-08-morning",
+      "date": "2026-07-08",
+      "slot": "morning",
+      "title": "허젠쿠이 크리스퍼 아기 사건: 세계 최초 유전자편집 아기가 사실은 실험 쥐였다는 얘기",
+      "topic": "크리스퍼-Cas9 유전자가위의 실제 작동 원리와 허젠쿠이 유전자편집 아기(루루·나나) 사건 — 오프타겟 효과, 모자이시즘, CCR5 유전자 조작의 진짜 리스크와 그 이후",
+      "category": "과학",
+      "summary": "2018년 세계를 뒤집은 크리스퍼 아기 사건. 유전자가위가 정말 정밀했는지, 그 애들한테 실제로 무슨 일이 있었는지, 그리고 지금은 어떻게 됐는지 파헤친다.",
+      "estimatedSeconds": 2512,
+      "url": "episodes/2026-07-08-morning.json"
+    },
+    {
+      "id": "2026-07-08-evening",
+      "date": "2026-07-08",
+      "slot": "evening",
+      "title": "스탠퍼드 감옥 실험 조작극: 세계를 50년 속인 가짜 심리학",
+      "topic": "스탠퍼드 감옥 실험(Stanford Prison Experiment)의 실체 — 해군연구청 자금, 감독의 사전 코칭, 죄수 8612번의 연기 자백, 크리스티나 매슬락의 개입, BBC 재현 실험의 정반대 결과, 아부그라이브 법정 증언, 짐바르도 사후 재평가까지 이어진 신화의 붕괴",
+      "category": "심리학",
+      "summary": "50년간 교과서에 실린 스탠퍼드 감옥 실험이 사실은 감독의 코칭과 참가자 연기, 군 자금으로 만들어진 조작극이었다는 걸 원본 테이프와 재현 실험으로 까발린다.",
+      "estimatedSeconds": 2501,
+      "url": "episodes/2026-07-08-evening.json"
+    },
+    {
+      "id": "2026-07-09-morning",
+      "date": "2026-07-09",
+      "slot": "morning",
+      "title": "자원의 저주: 기름 콸콸 나오는 나라가 왜 더 좆같이 망하는지",
+      "topic": "자원의 저주(Resource Curse)와 네덜란드병(Dutch Disease) — 오일머니가 경제를 어떻게 망가뜨리고, 노르웨이·보츠와나는 어떻게 그걸 피했는가",
+      "category": "개발",
+      "summary": "기름 많은 나라가 왜 더 가난해지는지 네덜란드병 메커니즘부터 나이지리아·베네수엘라의 몰락, 노르웨이·보츠와나의 예외, 콩고 코발트까지 파헤친다.",
+      "estimatedSeconds": 2709,
+      "url": "episodes/2026-07-09-morning.json"
+    },
+    {
+      "id": "2026-07-10-morning",
+      "date": "2026-07-10",
+      "slot": "morning",
+      "title": "HD DVD의 최후: 기술은 안 나쁜데 소니한테 관광당하고 1600억 엔 태운 얘기",
+      "topic": "블루레이 대 HD DVD 포맷 전쟁(2003~2008) — 소니의 플레이스테이션3 '트로이 목마' 전략, 스튜디오 매수전, 도시바 1600억 엔 손실까지의 실제 메커니즘",
+      "category": "기술",
+      "summary": "더 싸고 안 나쁜 기술이었던 HD DVD가 왜 2년 만에 죽었는지, 소니가 PS3로 어떻게 포맷 전쟁을 이겼는지 돈 얘기까지 깐다.",
+      "estimatedSeconds": 2518,
+      "url": "episodes/2026-07-10-morning.json"
     }
   ]
 }
