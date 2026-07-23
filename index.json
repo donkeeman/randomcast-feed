@@ -1,7 +1,18 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-22T15:50:20.529Z",
+  "updatedAt": "2026-07-23T15:32:40.997Z",
   "episodes": [
+    {
+      "id": "2026-07-25-morning",
+      "date": "2026-07-25",
+      "slot": "morning",
+      "title": "넷플릭스가 뿌린 100만 달러 상금이 어떻게 프라이버시 소송으로 번졌나 — 익명화라는 거짓말",
+      "topic": "넷플릭스 프라이즈 데이터셋 재식별(De-anonymization) 사건과 익명화(anonymization)의 구조적 실패",
+      "category": "기술",
+      "summary": "이름만 지우면 안전하다고? 넷플릭스가 공짜로 뿌린 평점 데이터가 어떻게 개인을 특정해내는 무기가 됐는지, 그 수학적 이유를 파헤친다.",
+      "estimatedSeconds": 2575,
+      "url": "episodes/2026-07-25-morning.json"
+    },
     {
       "id": "2026-07-23-evening",
       "date": "2026-07-23",
