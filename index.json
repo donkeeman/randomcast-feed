@@ -1,7 +1,18 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-23T15:37:53.484Z",
+  "updatedAt": "2026-07-24T15:32:44.345Z",
   "episodes": [
+    {
+      "id": "2026-07-26-morning",
+      "date": "2026-07-26",
+      "slot": "morning",
+      "title": "구토 한 번으로 평생 스테이크소스를 못 먹는 이유 — 가르시아 효과가 학습 이론을 조졌다",
+      "topic": "가르시아 효과(Garcia Effect)와 조건화된 미각 혐오(Conditioned Taste Aversion) — 단 한 번의 경험이 몇 시간 뒤의 결과와 어떻게 연결되는가",
+      "category": "과학",
+      "summary": "먹고 몇 시간 뒤 배탈이 나면 뇌는 범인을 딱 짚어낸다. 파블로프 조건화 법칙을 깨버린 가르시아 효과가 코요테 목장과 항암치료실까지 파고든 이야기.",
+      "estimatedSeconds": 2417,
+      "url": "episodes/2026-07-26-morning.json"
+    },
     {
       "id": "2026-07-25-morning",
       "date": "2026-07-25",
