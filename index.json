@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-02T15:31:14.327Z",
+  "updatedAt": "2026-09-02T15:36:54.158Z",
   "episodes": [
     {
       "id": "2026-09-04-morning",
@@ -12,6 +12,17 @@
       "summary": "2023년 상온 초전도체 LK-99 소동, 열흘 만에 전 세계가 달려들어 반박한 이유와 황화구리 불순물이 밝혀진 과정을 팩폭으로 파헤친다.",
       "estimatedSeconds": 2725,
       "url": "episodes/2026-09-04-morning.json"
+    },
+    {
+      "id": "2026-09-03-evening",
+      "date": "2026-09-03",
+      "slot": "evening",
+      "title": "비행기는 '동일통과시간' 때문에 뜨는 게 아니다 — NASA가 직접 부순 백년 묵은 교과서 구라",
+      "topic": "동일통과시간(Equal Transit-Time) 이론과 비행기 양력의 실제 메커니즘 — 베르누이 원리, 뉴턴 제3법칙, 순환이론(Kutta-Joukowski)",
+      "category": "과학",
+      "summary": "학교에서 배운 '날개 위 공기가 빨리 흘러서 뜬다'는 설명은 근거가 없다. NASA도 공식으로 틀렸다고 못박은 이 미신이 백년 가까이 교과서를 지배한 이유와 진짜 원리를 판다.",
+      "estimatedSeconds": 2440,
+      "url": "episodes/2026-09-03-evening.json"
     },
     {
       "id": "2026-09-03-morning",
