@@ -1,7 +1,18 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-24T15:51:58.241Z",
+  "updatedAt": "2026-09-24T15:53:00.487Z",
   "episodes": [
+    {
+      "id": "2026-09-26-morning",
+      "date": "2026-09-26",
+      "slot": "morning",
+      "title": "스탠퍼드 감옥 실험 사기극 — 반백년 동안 심리학 교과서를 속인 각본짜인 연기",
+      "topic": "스탠퍼드 감옥 실험(Stanford Prison Experiment)의 조작 정황과 신화 해체",
+      "category": "심리",
+      "summary": "1971년 스탠퍼드 감옥 실험은 '평범한 인간도 권력 쥐면 괴물 된다'는 증거로 반백년 팔렸다. 근데 그거 대본 있는 연기였다. 2018년 풀린 원본 녹취록이 깐 진실을 파헤친다.",
+      "estimatedSeconds": 2425,
+      "url": "episodes/2026-09-26-morning.json"
+    },
     {
       "id": "2026-09-25-evening",
       "date": "2026-09-25",
