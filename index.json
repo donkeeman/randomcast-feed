@@ -1,7 +1,18 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-30T15:18:46.768Z",
+  "updatedAt": "2026-09-30T15:19:16.472Z",
   "episodes": [
+    {
+      "id": "2026-10-02-morning",
+      "date": "2026-10-02",
+      "slot": "morning",
+      "title": "탈리도마이드: 안전하다던 수면제가 망가뜨린 팔다리, 그리고 그 독이 항암제가 된 사연",
+      "topic": "탈리도마이드(Thalidomide) 기형 유발 메커니즘과 세레블론(Cereblon) 분자접착제 발견",
+      "category": "과학",
+      "summary": "동물실험 다 통과한 '완벽하게 안전한' 수면제가 어떻게 전세계 아기 팔다리를 앗아갔는지, 그 독이 어떻게 다시 항암 신약 설계 혁명이 됐는지 파헤친다.",
+      "estimatedSeconds": 2608,
+      "url": "episodes/2026-10-02-morning.json"
+    },
     {
       "id": "2026-10-01-evening",
       "date": "2026-10-01",
