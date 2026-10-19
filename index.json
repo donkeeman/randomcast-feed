@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-19T15:25:48.193Z",
+  "updatedAt": "2026-10-19T15:30:53.620Z",
   "episodes": [
     {
       "id": "2026-10-21-morning",
@@ -12,6 +12,17 @@
       "summary": "횡단보도 버튼 눌러봤자 20년 전에 신호랑 끊겼다. 근데 그거 알아도 계속 누른다. 왜 그러는지 심리학으로 깐다.",
       "estimatedSeconds": 2722,
       "url": "episodes/2026-10-21-morning.json"
+    },
+    {
+      "id": "2026-10-20-evening",
+      "date": "2026-10-20",
+      "slot": "evening",
+      "title": "벤포드의 법칙: 숫자가 거짓말쟁이를 잡는 법",
+      "topic": "벤포드의 법칙(Benford's Law)과 자릿수 분포를 이용한 사기·조작 탐지",
+      "category": "과학",
+      "summary": "자연 발생 숫자는 첫 자리가 1로 시작할 확률이 30%나 돼. 이 비대칭으로 회계 사기랑 선거 조작을 잡아내는 벤포드의 법칙, 근데 다들 반쪽만 알고 떠든다.",
+      "estimatedSeconds": 2491,
+      "url": "episodes/2026-10-20-evening.json"
     },
     {
       "id": "2026-10-18-morning",
