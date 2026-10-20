@@ -1,7 +1,18 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-20T15:26:57.916Z",
+  "updatedAt": "2026-10-20T15:41:23.224Z",
   "episodes": [
+    {
+      "id": "2026-10-22-morning",
+      "date": "2026-10-22",
+      "slot": "morning",
+      "title": "경매에서 이기면 제일 망하는 이유 (승자의 저주)",
+      "topic": "승자의 저주(Winner's Curse)와 공통가치 경매의 구조적 역선택",
+      "category": "경제",
+      "summary": "경매에서 이기는 순간 손해가 확정되는 '승자의 저주'. 석유 임대권부터 영국 3G 주파수, NFL 드래프트, 부동산까지 왜 승리가 곧 바가지인지 까발린다.",
+      "estimatedSeconds": 2447,
+      "url": "episodes/2026-10-22-morning.json"
+    },
     {
       "id": "2026-10-21-evening",
       "date": "2026-10-21",
