@@ -1,7 +1,18 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T15:20:50.424Z",
+  "updatedAt": "2026-11-20T15:38:52.140Z",
   "episodes": [
+    {
+      "id": "2026-11-22-morning",
+      "date": "2026-11-22",
+      "slot": "morning",
+      "title": "숫자가 거꾸로 뒤집히는 마법 — 심슨의 역설이 통계를 조작하는 법",
+      "topic": "심슨의 역설 (Simpson's Paradox)",
+      "category": "과학",
+      "summary": "전체 통계랑 쪼개서 본 통계가 서로 반대로 나오는 심슨의 역설. 버클리 입학부터 코로나 치명률까지 숫자가 어떻게 거짓말하는지 깐다.",
+      "estimatedSeconds": 2475,
+      "url": "episodes/2026-11-22-morning.json"
+    },
     {
       "id": "2026-11-21-evening",
       "date": "2026-11-21",
