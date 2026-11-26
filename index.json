@@ -1,7 +1,18 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26T15:18:43.727Z",
+  "updatedAt": "2026-11-26T15:31:54.620Z",
   "episodes": [
+    {
+      "id": "2026-11-28-morning",
+      "date": "2026-11-28",
+      "slot": "morning",
+      "title": "계산하는 말이 있었다 — 근데 숫자는 하나도 몰랐다, AI도 아직 그 수법에 똑같이 당하고 있다",
+      "topic": "클레버 한스 효과 (Clever Hans Effect)와 AI의 숏컷 러닝",
+      "category": "심리",
+      "summary": "셈할 줄 안다던 말 한스는 사실 질문자 표정을 읽었을 뿐이었다. 같은 함정이 지금 AI 모델의 숏컷 러닝과 벤치마크 조작 사례에도 그대로 반복되고 있다는 얘기.",
+      "estimatedSeconds": 2564,
+      "url": "episodes/2026-11-28-morning.json"
+    },
     {
       "id": "2026-11-27-evening",
       "date": "2026-11-27",
