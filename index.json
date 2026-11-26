@@ -1,7 +1,18 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-25T15:42:55.392Z",
+  "updatedAt": "2026-11-26T15:18:43.727Z",
   "episodes": [
+    {
+      "id": "2026-11-27-evening",
+      "date": "2026-11-27",
+      "slot": "evening",
+      "title": "콩코드는 적자인 거 알면서 27년을 날았다 — 근데 멈추는 게 더 무서웠던 진짜 이유",
+      "topic": "매몰비용 오류(sunk cost fallacy), 그리고 생물학자들이 붙인 별명 콩코드 오류(Concorde fallacy)가 개인과 기업과 국가를 망하는 선택에 어떻게 계속 묶어두는지 추적한다. 1979년 Daniel Kahneman과 Amos Tversky가 Econometrica에 발표한 전망이론(Prospect Theory)의 손실회피(loss aversion) 개념이 왜 이미 쓴 돈에 집착하게 만드는지 메커니즘, 1985년 Hal Arkes와 Catherine Blumer가 Organizational Behavior and Human Decision Processes에 발표한 '두 개의 스키 여행권' 실험이 매몰비용 오류를 처음 통계로 입증한 과정, 1962년 영국과 프랑스가 조약으로 묶여 적자가 뻔히 보이던 1960년대 후반부터도 멈추지 못하고 당초 예산을 10배 넘겨 2003년까지 27년을 운항시킨 콩코드 초음속 여객기의 구체적 손실 규모와 정치적 자존심 압박, 리처드 도킨스와 Tamsin Carlisle이 1976년 네이처에 발표한 논문에서 동물의 과잉 투자 행동에 콩코드의 이름을 붙인 경위, 1976년 Barry Staw가 Organizational Behavior and Human Performance에 발표한 '무릎까지 빠진 큰 수렁'(Knee-Deep in the Big Muddy) 실험이 밝힌 조직의 확전적 투자 행동(escalation of commitment)과 베트남전 비유로서의 한계, 2000년 블록버스터 CEO 존 앤티오코가 리드 헤이스팅스와 마크 랜돌프의 5천만 달러 인수 제안을 거절하고 전세계 9천 개 매장 네트워크에 계속 투자하다 2010년 파산보호를 신청한 과정, 2020년 제프리 카젠버그와 멕 휘트먼이 17억 5천만 달러를 모아 만든 모바일 숏폼 스트리밍 Quibi가 팬데믹 시기 전략을 못 바꾸고 6개월 만에 폐업해 기술과 콘텐츠를 로쿠에 헐값에 넘긴 전말, 매몰비용 고려가 평판 효과나 정보 가치 때문에 때로는 합리적일 수 있다는 학계의 반론과 그 한계, 그리고 헬스장 연회비·연애·주식 물타기·코인 존버·스타트업 추가 투자부터 최근 빅테크의 AI 데이터센터 투자 경쟁까지 이어지는 매몰비용 오류의 현대적 변주를 끝까지 추적한다.",
+      "category": "심리학",
+      "summary": "콩코드 여객기는 적자인 거 알고도 27년을 더 날았다. 블록버스터, 퀴비까지 - 망한 거 뻔히 보이는데 못 놓는 매몰비용 오류를 그냥 깐다.",
+      "estimatedSeconds": 2519,
+      "url": "episodes/2026-11-27-evening.json"
+    },
     {
       "id": "2026-11-27-morning",
       "date": "2026-11-27",
